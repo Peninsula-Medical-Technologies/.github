@@ -1,6 +1,6 @@
 # PedMed
 
-> Next generation of intelligent connected critical care devices that improve the safety and outcomes of patients in critical care
+> We are developing the next generation of intelligent connected critical care devices that improve the safety and outcomes of patients in critical care
 
 see: <https://www.penmedtech.com>
 
